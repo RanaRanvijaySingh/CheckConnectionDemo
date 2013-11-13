@@ -1,12 +1,12 @@
 CheckConnectionDemo
 ===================
 This is a demo project to demonstrate how to check for internet connection and any other network connection .
-The steps are very easy .
-
-Steps 1: Give user-permission in the android manifest file .
-Step 2: Create a separate class to check for the internet connection.
-Step 3: Call the class function in the main acitivity.
-
+<br/>The steps are very easy .
+<br/>
+<br/>Steps 1: Give user-permission in the android manifest file .
+<br/>Step 2: Create a separate class to check for the internet connection.
+<br/>Step 3: Call the class function in the main acitivity.
+<br/><br/>
 ____________________________________________________________________________________________________________________________________________________________
 Steps 1: Give user-permission in the android manifest file .
 
